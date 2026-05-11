@@ -2,11 +2,6 @@
 
 BookBot is a simple Python tool that analyzes books (in .txt format) and provides word and character statistics.
 
-## Features
-
-- **Word Count**: Counts the total number of words in a text file.
-- **Character Frequency**: Counts the frequency of each alphabetic character (case-insensitive) and displays them sorted by frequency in descending order.
-
 ## Usage
 
 To use BookBot, run the script with a path to a text file as an argument:
