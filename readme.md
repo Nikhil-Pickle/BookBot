@@ -1,6 +1,6 @@
 # BookBot
 
-BookBot is a simple Python tool that analyzes text files (books) and provides word and character statistics.
+BookBot is a simple Python tool that analyzes books (in .txt format) and provides word and character statistics.
 
 ## Features
 
@@ -70,4 +70,4 @@ z: 243
 
 ## Contributing
 
-This is a project from [Boot.dev](https://www.boot.dev). Feel free to fork and improve!
+Special thanks to [Boot.dev](https://www.boot.dev).
